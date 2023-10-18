@@ -4,4 +4,4 @@ Here is an example on how to define a Vector2 variable:
 ```
 var vector2VariableName = Vector2(x, y)
 ```
-The "x" and "y" variables that the Vector2 holds can be replaced with whatever variable you want it to hold.
+The "x" and "y" [[variables]] that the Vector2 holds can be replaced with whatever variable you want it to hold.
