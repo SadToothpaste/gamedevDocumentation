@@ -4,4 +4,4 @@ Here is an example on how to define a Vector3 variable:
 ```
 var vector3VariableName = Vector3(0, 0, 0)
 ```
-The "x", "y" and "z" [[variables]] that the Vector3 holds can be replaced with whatever variable you want it to hold.
+The "x", "y" and "z" [[Variables]] that the Vector3 holds can be replaced with whatever variable you want it to hold.
