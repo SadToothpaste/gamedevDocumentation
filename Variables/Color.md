@@ -4,6 +4,7 @@ The four channels in question are: Red, Green, Blue, Alpha
 
 The first three are explanatory but you may not have heard of alpha. Alpha is a certain colours transparency. If the alpha value is 1, the colour will be fully visible. If the alpha value is 0, the colour will be completely invisible.
 
+**Colour variable examples:**
 ```
 var red = Color(1, 0, 0, 1)
 

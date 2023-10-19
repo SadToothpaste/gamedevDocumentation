@@ -1,6 +1,6 @@
 "Int", also known as "Integer" is a variable that can contain any whole number, it's important to know they are unable to handle decimals.
 
-Here is an example on how to define an int variable:
+**Here is an example on how to define an int variable:**
 ```
 var intVariableName = 2
 ```

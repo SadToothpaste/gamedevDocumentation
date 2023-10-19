@@ -1,6 +1,6 @@
 Float [[variables]] can contain any number, including decimal placements.
 
-Here is an example on how to define a float variable:
+**Here is an example on how to define a float variable:**
 ```
 var floatVariableName = 7.4
 ```
