@@ -21,3 +21,17 @@ if variable == value || variable2 == value:
 	print("run code")
 ```
 The "||" operator, also known as the "or" operator is used in case you only want one of the several conditions to be needed to be met in order for the if statement to run.
+
+**An else statement:**
+```
+else:
+	print("run code")
+```
+"else" statements are placed right after if statements. They will run the code inside of themselves exclusively if the above condition has not been met.
+
+**An elif statement:**
+```
+elif variable == value:
+	print("run code")
+```
+"elif" statements, also known as "else if" statements work exactly like regular if statements, except they are only triggered if the condition above has not been met.

@@ -1,4 +1,4 @@
-A function is a string of code you can rerun as many times as you want without rewriting any of the code. You are even able to add arguments and return values to modify the functions results. Each time you call a function it creates a new instance of it every single time, so you do not have to worry about calling too many at once.
+A function is a block of code you can rerun as many times as you want without rewriting any of the code. You are even able to add arguments and return values to modify the functions results. Each time you call a function it creates a new instance of it every single time, so you do not have to worry about calling too many at once.
 
 **Defining a function:**
 ```
