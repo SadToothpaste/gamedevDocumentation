@@ -2,6 +2,11 @@ Variables are a way to store data. This could be player statistics, the amount o
 
 Depending on where you define your variable, that is where it would be accessible. If you define a variable right under the "extends" line at the top of the script, the variable will be accessible everywhere in the script. But if you were to define it within a function, it would only be accessible within that function.
 
+If you want to get a variable from another script you can use the object that the variable is attached to followed by the get() function and then the variable name. Example is below:
+```
+objectReference.get("variableName")
+```
+
 **[[Bool]]**
 -Contains a value that is either "true" or "false".
 
