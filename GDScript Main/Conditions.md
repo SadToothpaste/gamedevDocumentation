@@ -10,17 +10,17 @@ if variable == value:
 
 **An if statement with several conditions needing to be met:**
 ```
-if variable == value && variable2 == value:
+if variable == value and variable2 == value:
 	print("run code")
 ```
-The "&&" operator is used in the case of several conditions needing to be met. Its what separates the conditions from each other and can be used an unlimited amount of times in a single condition.
+The "and" operator that can also be written as "&&" is used in the case of several conditions needing to be met. Its what separates the conditions from each other and can be used an unlimited amount of times in a single condition.
 
 **An if statement with several conditions, with only one needing to be met:**
 ```
-if variable == value || variable2 == value:
+if variable == value or variable2 == value:
 	print("run code")
 ```
-The "||" operator, also known as the "or" operator is used in case you only want one of the several conditions to be needed to be met in order for the if statement to run.
+The "or" operator, that can also be written as "||" is used in case you only want one of the several conditions to be needed to be met in order for the if statement to run.
 
 **An else statement:**
 ```
