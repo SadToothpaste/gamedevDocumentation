@@ -1,4 +1,4 @@
-References are one of the most important things to learn when coding in any game engine. "Getting a reference" simply means getting access to the other nodes and variables in your scene within your script. There are very many ways to get references, below are some of the most common.
+References are one of the most important things to learn when coding in any game engine. "Getting a reference" simply means getting access to the other nodes and [[variables]] in your scene within your script. There are very many ways to get references, below are some of the most common.
 
 **Using the $ operator:**
 ```

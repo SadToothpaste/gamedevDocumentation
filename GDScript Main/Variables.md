@@ -7,6 +7,9 @@ If you want to get a variable from another script you can use the object that th
 objectReference.get("variableName")
 ```
 
+**[[Array]]**
+-Contains several other variables in a list/order.
+
 **[[Bool]]**
 -Contains a value that is either "true" or "false".
 

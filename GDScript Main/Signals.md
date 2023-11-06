@@ -1,4 +1,4 @@
-Signals are very useful built in [[functions]] made to make it easier for different nodes to communicate with each other. Every node type has different signal outputs. But in general, a signal is something that will activate a function in another script when it is triggered. What triggers the function is completely dependant on the node type and signal that you use.
+Signals are a very useful built in feature that makes it easier for different nodes to communicate between each other. Every node type has different signal outputs. But in general, a signal is something that will activate a function in another script when it is triggered. What triggers the function is completely dependant on the node type and signal that you use.
 
 Attached below is an example on how signal works. There are two nodes in the scene. A button and a Sprite2D.
 
